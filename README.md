@@ -1,49 +1,4 @@
-
-
-
-<div align="center">
-  <h1>CRUD</h1>
-</div>
-<div align="center">
-  <strong>for RESTful APIs built with NestJs</strong>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://travis-ci.org/nestjsx/crud">
-    <img src="https://github.com/nestjsx/crud/workflows/Tests/badge.svg" alt="Build" />
-  </a>
-  <a href="https://coveralls.io/github/nestjsx/crud?branch=master">
-    <img src="https://coveralls.io/repos/github/nestjsx/crud/badge.svg" alt="Coverage" />
-  </a>
-  <a href="https://github.com/nestjsx/crud/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/nestjsx/crud.svg" alt="License" />
-  </a>
-  <a href="https://www.npmjs.com/package/@nestjsx/crud">
-    <img src="https://img.shields.io/npm/v/@nestjsx/crud.svg" alt="npm version" />
-  </a>
-  <a href="https://www.npmjs.com/org/nestjsx">
-    <img src="https://img.shields.io/npm/dm/@nestjsx/crud.svg" alt="npm downloads" />
-  </a>
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs welcome" />
-  </a>
-  <a href="https://github.com/marmelab/awesome-rest#nodejs">
-    <img src="https://raw.githubusercontent.com/nestjsx/crud/master/img/awesome-rest.svg?sanitize=true" alt="Awesome REST" />
-  </a>
-</div>
-
-<div align="center">
-  <sub>Built with :purple_heart:
-  <div align="center">
-    :star2: :eyes: :zap: :boom:
-  </div>
-</div>
-
-<br />
-
-We believe that everyone who's working with NestJs and building some RESTful services and especially some CRUD functionality will find `@nestjsx/crud` microframework very useful.
+# Auto-CRUD
 
 ## Features
 
@@ -87,4 +42,3 @@ Any support is welcome. At least you can give us a star :star:
 ## License
 
 [MIT](LICENSE)
-# Auto-CRUD
