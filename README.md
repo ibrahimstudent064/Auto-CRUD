@@ -28,16 +28,9 @@
 - [**@nestjsx/crud-request**](https://www.npmjs.com/package/@nestjsx/crud-request) - request builder/parser package which provides `RequestQueryBuilder` class for a frontend usage and `RequestQueryParser` that is being used internally for handling and validating query/path params on a backend side ([docs](https://github.com/nestjsx/crud/wiki/Requests#frontend-usage))
 - [**@nestjsx/crud-typeorm**](https://www.npmjs.com/package/@nestjsx/crud-typeorm) - TypeORM package which provides base `TypeOrmCrudService` with methods for CRUD database operations ([docs](https://github.com/nestjsx/crud/wiki/ServiceTypeorm))
 
-## Documentation
 
-- :dart: [General Information](https://github.com/nestjsx/crud/wiki#why)
-- :video_game: [CRUD Controllers](https://github.com/nestjsx/crud/wiki/Controllers#description)
-- :horse_racing: [CRUD ORM Services](https://github.com/nestjsx/crud/wiki/Services#description)
-- :trumpet: [Handling Requests](https://github.com/nestjsx/crud/wiki/Requests#description)
 
-## Support
 
-Any support is welcome. At least you can give us a star :star:
 
 ## License
 
